@@ -1,0 +1,33 @@
+.icon-container {
+  display: flex;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px;
+    max-width: 240px;
+    img {
+      width: 44px;
+    }
+  }
+  figcaption {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    h4 {
+        font-family: 'Cormorant';
+        font-weight: 700;
+        font-size: 25px;
+    }
+    p{
+        font-size: 16px;
+        font-weight: 400;
+    }
+  }
+}

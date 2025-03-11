@@ -1,0 +1,17 @@
+.section-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 30px;
+    h2 {
+      font-family: "Cormorant";
+      font-size: 2.5em;
+      
+    }
+    h2:nth-child(2) {
+      color: var(--btn-red);
+      font-family: "Poppins", sans-serif;
+      font-weight: 700;
+    }
+  }

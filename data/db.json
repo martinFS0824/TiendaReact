@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nombre": "Pelotas y juguetes",
+      "precio": 2500,
+      "img": "public/pelota.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Correas y Collares",
+      "precio": 4600,
+      "img": "public/correa.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Comederos y Bebederos",
+      "precio": 4500,
+      "img": "public/bebedero.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Galletas y Golosinas x 500grs",
+      "precio": 5500,
+      "img": "public/galletas.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Alimento Old Prince Equilibrium Cachorro",
+      "precio": 9999,
+      "stock": 50,
+      "img": "./public/productos/oldPrince.webp"
+    },
+    {
+      "id": "6",
+      "nombre": "Alimento Dog Chow Perro",
+      "precio": 8699,
+      "stock": 20,
+      "img": "./public/productos/dogChow.webp"
+    },
+    {
+      "id": "7",
+      "nombre": "Alimento Dogui Perro Adulto",
+      "precio": 13999,
+      "stock": 45,
+      "img": "./public/productos/dogui.webp"
+    },
+    {
+      "id": "8",
+      "nombre": "Alimento Pro Plan Gato Urinary",
+      "precio": 499,
+      "stock": 100,
+      "img": "./public/productos/urinary.webp"
+    },
+    {
+      "id": "9",
+      "nombre": "Alimento Gati Adulto Pescado y Salmón",
+      "precio": 31000,
+      "stock": 30,
+      "img": "./public/productos/gati.webp"
+    },
+    {
+      "id": "10",
+      "nombre": "Alimento Dog Chow Perro Adulto Senior 7+",
+      "precio": 9599,
+      "stock": 35,
+      "img": "./public/productos/dogChowSenior.webp"
+    },
+    {
+      "id": "11",
+      "nombre": "Alimento Cat Chow Gatito Kitten",
+      "precio": 14999,
+      "stock": 30,
+      "img": "./public/productos/catChow.webp"
+    },
+    {
+      "id": "12",
+      "nombre": "Mini Bocaditos Perro Golocan 100gr",
+      "precio": 21999,
+      "stock": 30,
+      "img": "./public/productos/bocaditos.webp"
+    },
+    {
+      "id": "13",
+      "nombre": "Alimento Eukanuba Perro Adulto Cordero",
+      "precio": 14999,
+      "stock": 30,
+      "img": "./public/productos/eukanuba.webp"
+    },
+    {
+      "id": "14",
+      "nombre": "Alimento Royal Canin Perro Weight Care",
+      "precio": 24999,
+      "stock": 30,
+      "img": "./public/productos/royalCanin.webp"
+    },
+    {
+      "id": "15",
+      "nombre": "Alimento Pro Plan Perro Adulto Piel Sensible",
+      "precio": 14999,
+      "stock": 30,
+      "img": "./public/productos/proPlan.webp"
+    },
+    {
+      "id": "16",
+      "nombre": "Alimento Nutrique Gato Urinary",
+      "precio": 31280,
+      "stock": 30,
+      "img": "./public/productos/nutrique.webp"
+    }
+  ],
+  "cart": []
+}

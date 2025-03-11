@@ -1,0 +1,21 @@
+.carousel-container{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    z-index: 1;
+        img{
+            width: 186px;
+            height: 186px;
+            object-fit: cover;
+            padding: 20px;
+            border: 1px solid lightgray;
+        }
+}
+@media (max-width: 768px){
+    .carousel-container{
+        img{
+            width: 90%;
+            height: 90%;
+        }
+    }
+  }

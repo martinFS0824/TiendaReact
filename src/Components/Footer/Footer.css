@@ -1,0 +1,29 @@
+footer{
+    padding: 40px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    justify-items: center;
+    img{
+      max-width: 110px;
+    }
+    ul{
+      list-style: none;
+    }
+    span{
+      font-weight: 500;
+      color: #1f1f1f;
+    }
+    a{
+      text-decoration: none;
+      color: #3D3D3D;
+      font-weight: 400;
+      font-size: 15px;
+    }
+  }
+  @media (max-width: 768px){
+    footer{
+        grid-template-columns: 1fr;
+        justify-items: flex-start;
+        gap: 30px;
+      }
+  }

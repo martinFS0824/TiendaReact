@@ -1,0 +1,53 @@
+.hero {
+  max-width: 100vw;
+  height: 70dvh;
+  background: url("public/juguete3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  padding: 4em;
+  display: flex;
+  h2 {
+    mark {
+      font-size: 50px;
+      background-color: var(--yellow);
+      color: #302e2e;
+      padding: 5px;
+    }
+  }
+  h3 {
+    margin-bottom: 20px;
+    mark {
+      font-size: 30px;
+      background-color: var(--yellow);
+      color: #302e2e;
+      padding: 5px;
+    }
+  }
+  button{
+   background-color: #E85732;
+   color: #fff;
+  }
+}
+
+@media (max-width: 768px){
+  .hero{
+    padding: 1.5em;
+    padding-top: 110px;
+    height: auto;
+    h2 {
+      mark {
+        font-size: 1.5rem;
+        padding: 5px;
+      }
+    }
+    h3 {
+      margin-bottom: 20px;
+      mark {
+        font-size: 1rem;
+        padding: 5px;
+      }
+    }
+  }
+}
